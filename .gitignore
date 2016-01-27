@@ -1,5 +1,4 @@
 # next version ;-)
 
-src/
-test/
-package.json
+node_modules
+coverage

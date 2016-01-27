@@ -1,0 +1,34 @@
+{
+  "name": "javascript-shunting-yard",
+  "version": "0.0.0",
+  "description": "Mathematical expression parser",
+  "main": "src/shunt.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javiercejudo/shunting-yard-arbitrary-precision.git"
+  },
+  "keywords": [
+    "parser",
+    "shunting-yard"
+  ],
+  "author": "Javier Cejudo <javier@javiercejudo.com> (http://www.javiercejudo.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javiercejudo/shunting-yard-arbitrary-precision/issues"
+  },
+  "homepage": "https://github.com/javiercejudo/shunting-yard-arbitrary-precision#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-coverage": "^0.3.38",
+    "gulp-coveralls": "^0.1.4",
+    "gulp-istanbul": "^0.10.2",
+    "gulp-mocha": "^2.1.3",
+    "rimraf": "^2.4.3",
+    "should": "^7.1.1"
+  },
+  "dependencies": {
+  }
+}
